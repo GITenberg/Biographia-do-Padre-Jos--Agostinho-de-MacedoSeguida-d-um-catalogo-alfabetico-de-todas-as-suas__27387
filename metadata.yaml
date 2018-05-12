@@ -1,0 +1,30 @@
+_repo: Biographia-do-Padre-Jos--Agostinho-de-MacedoSeguida-d-um-catalogo-alfabetico-de-todas-as-suas__27387
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Melo, Joaquim Lopes Carreira de
+    alias: Mello, Joaquim Lopes Carreira de
+    birthdate: 1816
+    deathdate: 1885
+    gutenberg_agent_id: '32664'
+    url: http://www.gutenberg.org/2009/agents/32664
+description: ''
+gutenberg_bookshelf: PT Biografia
+gutenberg_issued: '2008-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27387'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Macedo, José Agostinho de, 1761-1831'
+- !lcc 'PQ'
+title: 'Biographia do Padre José Agostinho de Macedo
+
+  Seguida d''um catalogo alfabetico de todas as suas obras'
+url: http://www.gutenberg.org/ebooks/27387
